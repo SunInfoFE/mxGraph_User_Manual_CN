@@ -754,7 +754,7 @@ _一个顶级工作流的例子_
 
 在这个用GraphEditor的例子里，在上图显示的选中的菜单选项调用了mxGraph.enterGroup(cell),这是子图相关的一个核心的API。
 
-**核心API方法：**
+**核心API方法：**
 
 - **mxGraph.enterGroup(cell)** – 使指定的图元成为显示区域的根图元。
 - **mxGraph.exitGroup()** - 使当前图元的父图元（如果有）成为新的根图元。
