@@ -128,7 +128,7 @@ license.txt | 使用库的许可条款
 mxGraph同样可以使用 npm 包管理获得。使用mxgraph作为依赖，用 npm 安装如下：
 
 ```
-npm intall graph --save
+npm install mxgraph --save
 ```
 这个模块可以使用require()方法进行加载。它将返回一个接受对象作为选项的工厂函数。必须将mxBasePath选项提供给工厂函数，而不是将其定义为一个全局变量。
 
