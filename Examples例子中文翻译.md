@@ -89,10 +89,8 @@ javascript/examples 包含以下例子:
 * [Drop](https://jgraph.github.io/mxgraph/javascript/examples/drop.html) - 处理原生拖拽图片到图中（需要高级浏览器）
 * [Handles](https://jgraph.github.io/mxgraph/javascript/examples/handles.html) - 使用mxHandle来改变自定义样式的交互。
 * [Extend canvas](https://jgraph.github.io/mxgraph/javascript/examples/extendcanvas.html) - 使用滚动条实现一个无限的画布
-* [Clipboard](https://jgraph.github.io/mxgraph/javascript/examples/clipboard.html) - 
-* 使用粘贴板实现跨页签和浏览器的拷贝和粘贴功能。
+* [Clipboard](https://jgraph.github.io/mxgraph/javascript/examples/clipboard.html) - 使用粘贴板实现跨页签和浏览器的拷贝和粘贴功能。
 * [Constituent](https://jgraph.github.io/mxgraph/javascript/examples/constituent.html) - 使用细胞作为其他细胞的一部分。
 * [JSON data](https://jgraph.github.io/mxgraph/javascript/examples/jsondata.html) - 使用JSON在mxCodec中编码/解码图模型的各个部分。
 * [Animation](https://jgraph.github.io/mxgraph/javascript/examples/animation.html) - 使用SVG动画可视化管道中的流动。
-* https://jgraph.github.io/mxgraph/javascript/examples/resources.html
 * [Resources](https://jgraph.github.io/mxgraph/javascript/examples/resources.html) - 在主线程警告上禁用同步XMLHttpRequest。
